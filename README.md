@@ -1,16 +1,13 @@
-### Hi there 👋I'm Alfin Cahya Putra!
+## Hi 👋I'm Alfin Cahya Putra
+![OS Badge](https://img.shields.io/badge/OS-linux-blue?&logo=Linux)
+[![Gmail Badge](https://img.shields.io/badge/-alfnchyaptraaa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alfnchyaptraaa@gmail.com)](mailto:alfnchyaptraaa@gmail.com) 
+[![Github Badge](https://img.shields.io/badge/-sierre1337-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sierre1337/)](https://www.github.com/sierre1337/)
+[![Twitter Badge](https://img.shields.io/badge/-alfnchyaptraa-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/alfnchyaptraa/)](https://www.twitter.com/alfnchyaptraa/)
+<p align='left'></3</p>
 
-<!--
-**sierre1337/sierre1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
+![C++](https://img.shields.io/badge/C++-282A36?style=flat&logo=c%2B%2B)&nbsp;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=sierre1337 alt=sierre1337 /> </p>
