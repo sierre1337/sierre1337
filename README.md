@@ -1,4 +1,4 @@
-# Hi, I'm Alfin Cahya Putra Wibowo
+# Hi, I'm Alfin Cahya Putra
 
 ## Banking Administration | Business Support | Web Development | Digital Operations
 
