@@ -1,4 +1,4 @@
-## Hi 👋I'm Alfin Cahya Putra
+## Hi I'm Alfin Cahya Putra
 ![OS Badge](https://img.shields.io/badge/OS-linux-blue?&logo=Linux)
 [![Gmail Badge](https://img.shields.io/badge/-alfnchyaptraaa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alfnchyaptraaa@gmail.com)](mailto:alfnchyaptraaa@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-sierre1337-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sierre1337/)](https://www.github.com/sierre1337/)
